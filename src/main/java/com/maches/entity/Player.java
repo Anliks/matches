@@ -1,5 +1,6 @@
 package com.maches.entity;
 
+
 public class Player {
     private String name = "Player";
 
